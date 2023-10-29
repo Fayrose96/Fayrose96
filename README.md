@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Fayrose sayeda</h1>
 <img align="right" alt="Coding" width="400" src="https://sysdig.com/wp-content/uploads/BlogImages-DevelopersFatige-featured-v3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayrose96&label=Profile%20views&color=0e75b6&style=flat" alt="fayrose96" /> </p>
